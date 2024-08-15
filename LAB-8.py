@@ -1,6 +1,6 @@
-Areeba Nawaz
-BCS21036
-LAB-8
+#Areeba Nawaz
+#BCS21036
+#LAB-8
 
 #Puzzle
 board = [[1, 2, 3], [5, 6, 0], [7, 8, 4]]
